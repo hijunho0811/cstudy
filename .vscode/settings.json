@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "python.pythonPath": "C:\\project\\Anaconda3\\envs\\study\\python.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "chcp 65001"
+    ],
+    "files.associations": {
+        "string.h": "c",
+        "iostream": "cpp"
+    }
+}
+
+
+
